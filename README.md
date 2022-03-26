@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img align="center" alt="Gif" src="https://1.bp.blogspot.com/-kMPsROpYPf8/YE3i8b9LiRI/AAAAAAABNEI/XNWvm8oz-QA0dqv0hMnTvxtF1l8WAcwjACLcBGAsYHQ/w360-h640/Satoru%2BGojo%2Blive%2Bwallpaper%2B2.gif" />
+    <img align="center" alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
 </br>
 </br>
 <a href="https://twitter.com/JrtOffcial">
