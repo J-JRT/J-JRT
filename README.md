@@ -14,13 +14,13 @@
 <a href="https://www.facebook.com/NHD.JRT.262">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/UCNK_WugSVHOSAIPKr2epEOQ">
+<a href="https://www.youtube.com/channel/UCNK_WugSVHOSAIPKr2epEOQ">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br/>
 <br/>
 
-- 📫 How to reach me: [Facebook - @NHD.JRT.262](https://www.facebook.com/NHD.JRT.262) , [Youtube - @JRT Official](https://www.youtube.com/UCNK_WugSVHOSAIPKr2epEOQ)
+- 📫 How to reach me: [Facebook - @NHD.JRT.262](https://www.facebook.com/NHD.JRT.262) , [Youtube - @JRT Official](https://www.youtube.com/channel/UCNK_WugSVHOSAIPKr2epEOQ)
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/ntkhang03)
 [![GitHub iampawan](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/ntkhang03)
