@@ -30,6 +30,7 @@
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/JrtOffcial?style=social)](https://twitter.com/JrtOffcial)
 [![GitHub iampawan](https://img.shields.io/github/followers/J-JRT?label=follow&style=social)](https://github.com/J-JRT)
+[![Facebook: imthepk](https://img.shields.io/facebook/follow/NHD.JRT.262?label=follow&style=social)](https://www.facebook.com/NHD.JRT.262)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=J-JRT&column=8&theme=gruvbox&no-frame=true"/></a> 
