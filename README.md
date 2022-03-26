@@ -1,6 +1,8 @@
-<h1> Xin chào, mình là 🍁JRT🍂 
-</br>
-</br>
+### Hi there 👋
+
+## Hola, I'm [NTKhang!](https://www.facebook.com/ntkhang03) 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntkhang03&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 <p align="center">
     <img align="center" alt="PNG" src="https://user-images.githubusercontent.com/88273015/133915703-61533620-a9b9-48ea-b6cd-d42d1e6e7e76.gif" />
 </br>
