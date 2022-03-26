@@ -1,6 +1,9 @@
 <h1> Xin chào, mình là 🍁JRT🍂 
 </br>
 </br>
+<p align="center">
+    <img align="center" alt="PNG" src="https://user-images.githubusercontent.com/88273015/133915703-61533620-a9b9-48ea-b6cd-d42d1e6e7e76.gif" />
+</br>
 </br>
 <a href="https://twitter.com/JrtOffcial">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
@@ -25,9 +28,6 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/ntkhang03)
 [![GitHub iampawan](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/ntkhang03)
 
-<p align="center">
-    <img align="center" alt="PNG" src="https://user-images.githubusercontent.com/88273015/133915703-61533620-a9b9-48ea-b6cd-d42d1e6e7e76.gif" />
-</p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=J-JRT&column=8&theme=gruvbox&no-frame=true"/></a> 
 </p>
