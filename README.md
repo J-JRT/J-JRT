@@ -1,23 +1,30 @@
 <h1> Xin chào, mình là 🍁JRT🍂 <img src="https://user-images.githubusercontent.com/88273015/133915703-61533620-a9b9-48ea-b6cd-d42d1e6e7e76.gif" width="25"></h1> 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntkhang03&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVuuV_nxDl5LBN7FQstjioK3Df9NbzcfKN8w&usqp=CAU"/> </p>
 
-<a href="https://twitter.com/ntkhang03">
+<a href="https://twitter.com/JrtOffcial">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://github.com/ntkhang03">
+<a href="https://github.com/J-JRt">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/nthanhkhang2003">
+<a href="https://instagram.com/hd.jrt.">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ntkhang03">
+<a href="https://www.facebook.com/NHD.JRT.262">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/ntkhang03">
+<a href="https://www.youtube.com/UCNK_WugSVHOSAIPKr2epEOQ">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<br/>
+<br/>
+
+- 📫 How to reach me: [Facebook - @NHD.JRT.262](https://www.facebook.com/NHD.JRT.262) , [Youtube - @JRT Official](https://www.youtube.com/UCNK_WugSVHOSAIPKr2epEOQ)
+
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/ntkhang03)
+[![GitHub iampawan](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/ntkhang03)
 
 <p align="center">
     <img align="center" alt="PNG" src="https://user-images.githubusercontent.com/88273015/133915703-61533620-a9b9-48ea-b6cd-d42d1e6e7e76.gif" />
