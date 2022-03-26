@@ -25,8 +25,8 @@
 
 - 📫 How to reach me: [Facebook - @NHD.JRT.262](https://www.facebook.com/NHD.JRT.262) , [Youtube - @JRT Official](https://www.youtube.com/channel/UCNK_WugSVHOSAIPKr2epEOQ)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/ntkhang03)
-[![GitHub iampawan](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/ntkhang03)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/JrtOffcial?style=social)](https://twitter.com/JrtOffcial)
+[![GitHub iampawan](https://img.shields.io/github/followers/J-JRT?label=follow&style=social)](https://github.com/J-JRT)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=J-JRT&column=8&theme=gruvbox&no-frame=true"/></a> 
