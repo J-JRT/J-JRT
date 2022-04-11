@@ -36,7 +36,7 @@
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=J-JRT&column=8&theme=gruvbox&no-frame=true"/></a> 
 </p>
 <br>
-> <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Information***
+> <img src="https://nguoivietphone.com/images/file/Palwn12z1ggBARZo/m15-gaia-stars1024b.gif" width="30px">&nbsp;***Talking about Information***
 
 <img align="right" width=250px alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
 
