@@ -48,6 +48,9 @@
 # 🤝🏻 Connect with Me
 <p align="center">
   
+ ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Hello](hello.svg)
+  
 &nbsp; <a href="https://www.instagram.com/hd.jrt.2k3" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
 &nbsp; <a href="https://www.tiktok.com/@hd.jrt03?" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/search" width="100" /></a>    
 &nbsp; <a href="https://github.com/J-JRT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
