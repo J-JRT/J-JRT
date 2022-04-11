@@ -39,7 +39,7 @@
 
 # 📰 Talking about Information
 
-<img align="right" width=250px alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
+<img align="right" width=200px alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
 
 -   ⚜️ My name is Nguyễn Hải Đăng.
 -   ❤️‍🔥 26/02/2003
@@ -48,17 +48,6 @@
 -   💓 Relationship: Hẹn hò
 -   🍁 Profile: [Facebook](https://www.facebook.com/NHD.JRT.262)
 -   🍀 Describe yourself: I love to travel with my lover and travel to explore. Although I am a quiet person, but anyone who comes into contact with me, I am willing to open my heart. And especially I love this girl very much with all my heart and what I give her will be true and nothing more than that, friendship will rank 2nd and my lover will be 1st.
-
-
-
-
-
-
-
-
-
-
-
 
 <hr>
 
