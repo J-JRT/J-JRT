@@ -36,7 +36,8 @@
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=J-JRT&column=8&theme=gruvbox&no-frame=true"/></a> 
 </p>
 <br>
-# Talking about Information
+
+# 📰 Talking about Information
 
 <img align="right" width=250px alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
 
@@ -50,7 +51,7 @@
 
 <hr>
 
-# Github Stats
+# 📝 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=J-JRT&include_all_commits=true&count_private=true&show_icons=true&custom_title=J-JRT&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=J-JRT&theme=neon-palenight" alt = "Github Streak" >
