@@ -52,6 +52,6 @@
 &nbsp; <a href="https://github.com/J-JRT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
 &nbsp; <a href="https://www.facebook.com/NHD.JRT.262" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
 &nbsp; <a href="mailto:lehonguyen2k3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
-</p>
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ![Hello](hello.svg)
+</p>
