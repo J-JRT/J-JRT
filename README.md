@@ -3,8 +3,9 @@
 ## I'm [J-JRT!](https://www.facebook.com/NHD.JRT.262) 👋
 
 
-<p align="center">
-    <img align="center" alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
+<a href="#" target="_blank">
+  <img src="J-JRT.svg" width="1200" alt="Click to see the source" />
+</a>
 </br>
 </br>
 <a href="https://twitter.com/JrtOffcial">
