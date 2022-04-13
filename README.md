@@ -14,10 +14,10 @@
 <a href="https://twitter.com/JrtOffcial">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://github.com/J-JRt">
+<a href="https://github.com/J-JRT">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/hd.jrt.">
+<a href="https://instagram.com/hd.jrt.2k3">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/NHD.JRT.262">
@@ -31,15 +31,15 @@
 <br/>
 
 <p align="left">
-  <a href="https://www.facebook.com/TTK221" target="blank"><img align="center"
+  <a href="https://www.facebook.com/NHD.JRT.262" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="load" height="30" width="40" /></a> 
-  <a href="https://instagram.com/rizxyux" target="blank"><img align="center"
+  <a href="https://instagram.com/hd.jrt.2k3" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="load" height="30" width="40" /></a> 
- <a href="https://twitter.com/rizkyadin7" target="blank"><img align="center"
+ <a href="https://twitter.com/JrtOffcial" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Arsyad Al Zikri" height="30" width="40" /></a> 
+      alt="J-JRT" height="30" width="40" /></a> 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=J-JRT&column=8&theme=gruvbox&no-frame=true"/></a> 
