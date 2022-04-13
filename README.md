@@ -2,6 +2,9 @@
 
 ## I'm [J-JRT!](https://www.facebook.com/NHD.JRT.262) 👋
 
+<h1 align="center">
+    <img src="./img.svg" alt="Cant Load Image"/>
+</h1>
 
 <a href="#" target="_blank">
   <img src="J-JRT.svg" width="1200" alt="Click to see the source" />
