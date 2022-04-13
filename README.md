@@ -27,11 +27,17 @@
 <br/>
 <br/>
 
-- 📫 How to reach me: [Facebook - @NHD.JRT.262](https://www.facebook.com/NHD.JRT.262) , [Youtube - @JRT Official](https://www.youtube.com/channel/UCNK_WugSVHOSAIPKr2epEOQ)
-
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/JrtOffcial?style=social)](https://twitter.com/JrtOffcial)
-[![GitHub iampawan](https://img.shields.io/github/followers/J-JRT?label=follow&style=social)](https://github.com/J-JRT)
-
+<p align="left">
+  <a href="https://www.facebook.com/TTK221" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="load" height="30" width="40" /></a> 
+  <a href="https://instagram.com/rizxyux" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="load" height="30" width="40" /></a> 
+ <a href="https://twitter.com/rizkyadin7" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Arsyad Al Zikri" height="30" width="40" /></a> 
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=J-JRT&column=8&theme=gruvbox&no-frame=true"/></a> 
 </p>
